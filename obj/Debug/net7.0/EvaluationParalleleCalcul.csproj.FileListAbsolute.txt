@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\bin\Debug\net7.0\EvaluationParalleleCalcul.exe
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\bin\Debug\net7.0\EvaluationParalleleCalcul.deps.json
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\bin\Debug\net7.0\EvaluationParalleleCalcul.runtimeconfig.json
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\bin\Debug\net7.0\EvaluationParalleleCalcul.dll
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\bin\Debug\net7.0\EvaluationParalleleCalcul.pdb
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\EvaluationParalleleCalcul.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\EvaluationParalleleCalcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\EvaluationParalleleCalcul.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\EvaluationParalleleCalcul.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\EvaluationParalleleCalcul.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\EvaluationParalleleCalcul.dll
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\refint\EvaluationParalleleCalcul.dll
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\EvaluationParalleleCalcul.pdb
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\EvaluationParalleleCalcul.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\EvaluationParalleleCalcul\obj\Debug\net7.0\ref\EvaluationParalleleCalcul.dll
